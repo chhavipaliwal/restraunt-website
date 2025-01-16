@@ -21,8 +21,8 @@ const Create = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     if (data.isChecked) {
-      alert("Form submitted!");
-      // alert(`Email: ${data.email}\nPassword: ${data.password}`);
+      // alert("Form submitted!");
+      alert(`Email: ${data.email}\nPassword: ${data.password}`);
       console.log(data);
     } else {
       alert("Please agree to the terms and conditions");

@@ -9,7 +9,6 @@ const ProductHeading = () => {
           <a className="">Woman</a>
           <a className="">Kids</a>
           <a className="">Gift</a>
-          <a className="">New & Features</a>
         </div>
         <div className="font-medium text-3xl mr-[15%] ">
           <h1>TULOS</h1>
